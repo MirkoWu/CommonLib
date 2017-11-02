@@ -26,6 +26,8 @@
 1.[FlycoTabLayout](https://github.com/H07000223/FlycoTabLayout) 各种样式的TabLayout
 ### Banner广告栏
 1.[Banner](https://github.com/youth5201314/banner) 支持常用的样式
+### 推送消息角标 仿ios
+1.[ShortcutBadger](https://github.com/leolin310148/ShortcutBadger) 应用图标右上角的小图标
 ### 其他widget
 1.[FlexboxLayout](https://github.com/google/flexbox-layout) 官方推出的流式布局  
 2.[calendarview](https://github.com/prolificinteractive/material-calendarview) 日历选取 可配合签到  
