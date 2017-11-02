@@ -29,5 +29,5 @@
 ### Banner广告栏
 1.[Banner](https://github.com/youth5201314/banner) 支持常用的样式
 ### 其他widget
-1.[FlexboxLayout](https://github.com/google/flexbox-layout) 官方推出的流式布局
+1.[FlexboxLayout](https://github.com/google/flexbox-layout) 官方推出的流式布局  
 2.[calendarview](https://github.com/prolificinteractive/material-calendarview) 日历选取 可配合签到
